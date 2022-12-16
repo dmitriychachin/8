@@ -1,0 +1,15 @@
+D:\Android dev\Repository\C#\Classwork\8\Task_1\obj\Debug\net6.0\Task_1.csproj.AssemblyReference.cache
+D:\Android dev\Repository\C#\Classwork\8\Task_1\obj\Debug\net6.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Android dev\Repository\C#\Classwork\8\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfoInputs.cache
+D:\Android dev\Repository\C#\Classwork\8\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfo.cs
+D:\Android dev\Repository\C#\Classwork\8\Task_1\obj\Debug\net6.0\Task_1.csproj.CoreCompileInputs.cache
+D:\Android dev\Repository\C#\Classwork\8\Task_1\bin\Debug\net6.0\Task_1.exe
+D:\Android dev\Repository\C#\Classwork\8\Task_1\bin\Debug\net6.0\Task_1.deps.json
+D:\Android dev\Repository\C#\Classwork\8\Task_1\bin\Debug\net6.0\Task_1.runtimeconfig.json
+D:\Android dev\Repository\C#\Classwork\8\Task_1\bin\Debug\net6.0\Task_1.dll
+D:\Android dev\Repository\C#\Classwork\8\Task_1\bin\Debug\net6.0\Task_1.pdb
+D:\Android dev\Repository\C#\Classwork\8\Task_1\obj\Debug\net6.0\Task_1.dll
+D:\Android dev\Repository\C#\Classwork\8\Task_1\obj\Debug\net6.0\refint\Task_1.dll
+D:\Android dev\Repository\C#\Classwork\8\Task_1\obj\Debug\net6.0\Task_1.pdb
+D:\Android dev\Repository\C#\Classwork\8\Task_1\obj\Debug\net6.0\Task_1.genruntimeconfig.cache
+D:\Android dev\Repository\C#\Classwork\8\Task_1\obj\Debug\net6.0\ref\Task_1.dll
