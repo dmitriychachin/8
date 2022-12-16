@@ -18,7 +18,7 @@ int[]  GetArray( int n)
 }
 
 //Создание библиотеки
-/*int [,] dictonary(int [] array, int m)
+int [,] dictonary(int [] array, int m)
 {
     int [,] matrix = new int [m, 2];
     int n = 0;
@@ -37,7 +37,7 @@ int[]  GetArray( int n)
         }   
     }
 }
-*/
+
 //Красивая библиотека
 int [,] bDictonary(int [,] matrix)
 {
@@ -93,7 +93,7 @@ int n = 7;
 
 int [] startArray = GetArray(n);
 
-//Array.Sort(array);
+Array.Sort(startArray);
 
 printArray(startArray);
 
@@ -101,7 +101,7 @@ int m = startArray.Length;
 
 int [] secArray = startArray;
 
-/*int [,] dic = dictonary(secArray, m);
+int [,] dic = dictonary(secArray, m);
 
 int [,] bdic = bDictonary(dic);
 
@@ -109,7 +109,7 @@ Console.WriteLine();
 
 PrintMatrix(bdic);
 
-*/
+
 
 
 
